@@ -5,7 +5,7 @@ This project is a Chrome Dino Accelerator/Geometry Dash inspired game built excl
 # Made by 
 Isaac Medina, Jan Konings, Ryan Chen, Jacob Gerson
 # Decription
-An in depth description of our project can be found here 
+An in depth description of our project can be found [here](https://docs.google.com/document/d/1R30dY6nU9XgtKoMpkwi4Mj_8Qb0pxpN2VB6TJQcGOH0/edit?tab=t.0). 
 
 VHDL code is in the "impl_1" folder.
 # Pictures
